@@ -1,4 +1,4 @@
-# Project_1
+# Assignment_1
 
 PROBLEM
 To create Registration and Login system using Python, file handling
